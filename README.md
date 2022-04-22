@@ -3,6 +3,12 @@ Resources about building APIs. Examples of using on production and advanced conc
 
 # Table of content
 
+<!-- TOC -->
+
+- [Introduction](#introduction)
+- [Resources](#resources)
+
+<!-- /TOC -->
 # Introduction
 
 # Resources

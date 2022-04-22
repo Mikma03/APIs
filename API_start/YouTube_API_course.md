@@ -4,6 +4,10 @@
 - Oryginall source for below file
     - https://github.com/craigsdennis/intro-to-apis-course/blob/master/course-notes.md
 
+- start
+
+https://youtu.be/GZvSYJDk-us?t=5070
+
 
 # Introduction to APIs
 
