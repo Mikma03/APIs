@@ -5,6 +5,8 @@ Resources about building APIs. Examples of using on production and advanced conc
 
 <!-- TOC -->
 
+- [APIs](#apis)
+- [Table of content](#table-of-content)
 - [Introduction](#introduction)
 - [Resources](#resources)
 
@@ -21,3 +23,6 @@ Resources about building APIs. Examples of using on production and advanced conc
 
 - Postman Beginner's Course - API Testing
     - https://www.youtube.com/watch?v=VywxIQ2ZXw4&ab_channel=freeCodeCamp.org
+
+- Build a Django REST API with the Django Rest Framework
+    - https://www.youtube.com/watch?v=c708Nf0cHrs
