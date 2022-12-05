@@ -1,19 +1,17 @@
-# APIs
-Resources about building APIs. Examples of using on production and advanced concepts. 
-
-# Table of content
 
 <!-- TOC -->
 
-- [APIs](#apis)
-- [Table of content](#table-of-content)
-- [Introduction](#introduction)
-- [Resources](#resources)
+- [APIs - general information](#apis---general-information)
+- [Resources and materials](#resources-and-materials)
 
 <!-- /TOC -->
-# Introduction
 
-# Resources
+# APIs - general information
+
+Resources about building APIs. Examples of using on production and advanced concepts. 
+
+
+# Resources and materials
 
 - APIs for Beginners
     - https://www.youtube.com/watch?v=GZvSYJDk-us&t=3143s&ab_channel=freeCodeCamp.org
